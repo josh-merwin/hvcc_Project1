@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Sat Jun 25 05:05:43 2022
+[*]
+[dumpfile] "/Users/shalan/work/ws/mul32_tb.vcd"
+[dumpfile_mtime] "Sat Jun 25 04:55:54 2022"
+[dumpfile_size] 88367
+[savefile] "/Users/shalan/work/ws/mul32_tb.gtkw"
+[timestart] 222
+[size] 2560 1206
+[pos] -1 -1
+*-6.484151 702 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mul32_tb.
+[treeopen] mul32_tb.duv.
+[sst_width] 193
+[signals_width] 156
+[sst_expanded] 1
+[sst_vpaned_height] 371
+@200
+-Testbench
+@28
+mul32_tb.clk
+mul32_tb.rst
+mul32_tb.start
+@24
+mul32_tb.mc[31:0]
+mul32_tb.mp[31:0]
+mul32_tb.p[31:0]
+@28
+mul32_tb.done
+@200
+-
+-mul32
+@100002028
+^1 /Users/shalan/work/ws/states.gtkw
+mul32_tb.duv.state[1:0]
+@24
+mul32_tb.duv.cnt[5:0]
+@200
+-
+-spm
+@23
+mul32_tb.duv.spm32.x[31:0]
+@28
+mul32_tb.duv.spm32.y
+mul32_tb.duv.spm32.p
+[pattern_trace] 1
+[pattern_trace] 0
